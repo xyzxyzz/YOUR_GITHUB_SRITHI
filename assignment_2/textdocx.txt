@@ -1,0 +1,13 @@
+Assignment_2
+
+Codd Server links
+
+http://codd.cs.gsu.edu/~smuthyala1/assignment_2/index.html
+
+CSS links
+
+http://codd.cs.gsu.edu/~smuthyala1/assignment_2/program1.css
+http://codd.cs.gsu.edu/~smuthyala1/assignment_2/font.css
+
+Github
+
